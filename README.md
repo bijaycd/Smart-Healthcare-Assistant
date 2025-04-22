@@ -16,7 +16,7 @@ The **Smart Healthcare Assistant** is an AI-powered application that simplifies 
 
 ## Deployment Link
 
-🔗 **Live Demo on HuggingFace Spaces:** [Smart Healthcare Assistant](https://bijayjr-smart-healthcare-bot.hf.space/))
+🔗 **Live Demo on HuggingFace Spaces:** [Smart Healthcare Assistant](https://bijayjr-smart-healthcare-bot.hf.space/)
 
 ## 🚀 Features
 
